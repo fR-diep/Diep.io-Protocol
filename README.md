@@ -1,2 +1,2 @@
 # Diep.io-Protocol
-Trying to parse powjs
+Pow.js, Packets, Connection
